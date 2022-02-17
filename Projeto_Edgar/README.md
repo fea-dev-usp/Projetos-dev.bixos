@@ -1,5 +1,3 @@
 # Projetos dev.bixos
- repo dos projetos para correção
-
-
-Os bixos irão postar aqui seus projetos até às 19h
+Aqui está o projeto do Edgar, feito através do DataCamp
+Link do projeto no DataCamp: https://app.datacamp.com/learn/projects/history-of-lego
